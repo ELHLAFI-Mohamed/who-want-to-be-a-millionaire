@@ -1,0 +1,745 @@
+# depslib dependency file v1.0
+1548710772 source:c:\users\redjhon\desktop\millions3\admin.c
+	"admin.h"
+	<string.h>
+
+1548699424 c:\users\redjhon\desktop\millions3\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548701255 c:\users\redjhon\desktop\millions3\fonctions.h
+
+1548711145 source:c:\users\redjhon\desktop\millions3\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	<time.h>
+	"fonctions.h"
+
+1548082374 source:c:\users\redjhon\desktop\millions3\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548697940 c:\users\redjhon\desktop\millions3\jeu.h
+
+1548709967 source:c:\users\redjhon\desktop\millions3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<conio.h>
+	<stdlib.h>
+
+1548515722 c:\users\redjhon\desktop\millions3\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548527848 source:c:\users\redjhon\desktop\millions3\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548078294 source:c:\users\hatim\desktop\millions3\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548078294 c:\users\hatim\desktop\millions3\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548697656 c:\users\hatim\desktop\millions3\fonctions.h
+
+1548079175 c:\users\hatim\desktop\millions3\jeu.h
+
+1548080612 source:c:\users\hatim\desktop\millions3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<conio.h>
+	<stdlib.h>
+
+1548512122 c:\users\hatim\desktop\millions3\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548085495 source:c:\users\hatim\desktop\m4\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548078294 c:\users\hatim\desktop\m4\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548086710 c:\users\hatim\desktop\m4\fonctions.h
+
+1548086792 c:\users\hatim\desktop\m4\jeu.h
+
+1548086834 source:c:\users\hatim\desktop\m4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548512122 c:\users\hatim\desktop\m4\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548524248 source:c:\users\hatim\desktop\m4\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548089096 source:c:\users\redjhon\desktop\good-job\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548081896 c:\users\redjhon\desktop\good-job\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548090312 c:\users\redjhon\desktop\good-job\fonctions.h
+
+1548090394 c:\users\redjhon\desktop\good-job\jeu.h
+
+1548804083 source:c:\users\redjhon\desktop\good-job\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548803882 c:\users\redjhon\desktop\good-job\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548710774 source:c:\users\redjhon\desktop\good-job\admin.c
+	"admin.h"
+	<string.h>
+
+1548791064 source:c:\users\redjhon\desktop\good-job\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	<time.h>
+	"fonctions.h"
+
+1548806560 source:c:\users\redjhon\desktop\good-job\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548710774 source:c:\users\redjhon\desktop\pseodo-final\admin.c
+	"admin.h"
+	<string.h>
+
+1548081896 c:\users\redjhon\desktop\pseodo-final\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548828872 c:\users\redjhon\desktop\pseodo-final\fonctions.h
+
+1548827894 source:c:\users\redjhon\desktop\pseodo-final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548821547 source:c:\users\redjhon\desktop\pseodo-final\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548821547 c:\users\redjhon\desktop\pseodo-final\jeu.h
+	"fonctions.h"
+
+1548714630 source:c:\users\redjhon\desktop\pseodo-final\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548822182 c:\users\redjhon\desktop\pseodo-final\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548828567 source:c:\users\redjhon\desktop\pseodo-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548707174 source:g:\pseodo-final\admin.c
+	"admin.h"
+	<string.h>
+
+1548078296 g:\pseodo-final\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548825274 g:\pseodo-final\fonctions.h
+
+1548825262 source:g:\pseodo-final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548818584 g:\pseodo-final\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548817948 source:g:\pseodo-final\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548817948 g:\pseodo-final\jeu.h
+	"fonctions.h"
+
+1548824968 source:g:\pseodo-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548711030 source:g:\pseodo-final\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548710774 source:f:\pseodo-final\admin.c
+	"admin.h"
+	<string.h>
+
+1548081896 f:\pseodo-final\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548833014 f:\pseodo-final\fonctions.h
+
+1548821548 source:f:\pseodo-final\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548821548 f:\pseodo-final\jeu.h
+	"fonctions.h"
+
+1548828568 source:f:\pseodo-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548822184 f:\pseodo-final\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548714630 source:f:\pseodo-final\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548710774 source:g:\projet_langage c\admin.c
+	"admin.h"
+	<string.h>
+
+1548081896 g:\projet_langage c\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548833014 g:\projet_langage c\fonctions.h
+
+1548835744 source:g:\projet_langage c\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548822184 g:\projet_langage c\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548821548 source:g:\projet_langage c\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548821548 g:\projet_langage c\jeu.h
+	"fonctions.h"
+
+1548828568 source:g:\projet_langage c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548714630 source:g:\projet_langage c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548981867 source:c:\users\redjhon\desktop\projet_langage c\admin.c
+	"admin.h"
+	<string.h>
+
+1548981867 c:\users\redjhon\desktop\projet_langage c\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548833014 c:\users\redjhon\desktop\projet_langage c\fonctions.h
+
+1548835744 source:c:\users\redjhon\desktop\projet_langage c\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548822184 c:\users\redjhon\desktop\projet_langage c\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548821548 source:c:\users\redjhon\desktop\projet_langage c\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548821548 c:\users\redjhon\desktop\projet_langage c\jeu.h
+	"fonctions.h"
+
+1548980518 source:c:\users\redjhon\desktop\projet_langage c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548892940 source:c:\users\redjhon\desktop\projet_langage c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548981867 source:c:\users\redjhon\desktop\projet_langage c 1\admin.c
+	"admin.h"
+	<string.h>
+
+1548981867 c:\users\redjhon\desktop\projet_langage c 1\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548833014 c:\users\redjhon\desktop\projet_langage c 1\fonctions.h
+
+1548835744 source:c:\users\redjhon\desktop\projet_langage c 1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548822184 c:\users\redjhon\desktop\projet_langage c 1\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548821548 source:c:\users\redjhon\desktop\projet_langage c 1\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548821548 c:\users\redjhon\desktop\projet_langage c 1\jeu.h
+	"fonctions.h"
+
+1548892940 source:c:\users\redjhon\desktop\projet_langage c 1\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1549052908 source:c:\users\redjhon\desktop\projet_langage c 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	<stdlib.h>
+	"jeu.h"
+
+1548978268 source:d:\projet_langage c 2\admin.c
+	"admin.h"
+	<string.h>
+
+1548706021 d:\projet_langage c 2\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548706021 d:\projet_langage c 2\fonctions.h
+
+1548705782 source:d:\projet_langage c 2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548695871 d:\projet_langage c 2\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548706021 source:d:\projet_langage c 2\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548706021 d:\projet_langage c 2\jeu.h
+	"fonctions.h"
+
+1548706565 source:d:\projet_langage c 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	"jeu.h"
+	"rlutil.h"
+
+1548705781 source:d:\projet_langage c 2\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1464936568 d:\projet_langage c 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1548709384 source:f:\projet_langage c 2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548709622 f:\projet_langage c 2\fonctions.h
+
+1548699472 f:\projet_langage c 2\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548709622 source:f:\projet_langage c 2\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548709622 f:\projet_langage c 2\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548709622 f:\projet_langage c 2\jeu.h
+	"fonctions.h"
+
+1548710468 source:f:\projet_langage c 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	"jeu.h"
+	"rlutil.h"
+
+1464936568 f:\projet_langage c 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1548709382 source:f:\projet_langage c 2\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548981868 source:f:\projet c final\admin.c
+	"admin.h"
+	<string.h>
+
+1548709622 f:\projet c final\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548709622 f:\projet c final\fonctions.h
+
+1548709384 source:f:\projet c final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548699472 f:\projet c final\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548709622 source:f:\projet c final\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548709622 f:\projet c final\jeu.h
+	"fonctions.h"
+
+1548710468 source:f:\projet c final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	"jeu.h"
+	"rlutil.h"
+
+1464936568 f:\projet c final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1548709382 source:f:\projet c final\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
+1548981868 source:c:\users\redjhon\desktop\projet c final\admin.c
+	"admin.h"
+	<string.h>
+
+1548709622 c:\users\redjhon\desktop\projet c final\admin.h
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1548709622 c:\users\redjhon\desktop\projet c final\fonctions.h
+
+1548709384 source:c:\users\redjhon\desktop\projet c final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+	"user.h"
+
+1548699472 c:\users\redjhon\desktop\projet c final\user.h
+	"fonctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548709622 source:c:\users\redjhon\desktop\projet c final\jeu.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	<string.h>
+	"fonctions.h"
+
+1548709622 c:\users\redjhon\desktop\projet c final\jeu.h
+	"fonctions.h"
+
+1549157545 source:c:\users\redjhon\desktop\projet c final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+	"admin.h"
+	<time.h>
+	"jeu.h"
+	"rlutil.h"
+
+1464936568 c:\users\redjhon\desktop\projet c final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1548709382 source:c:\users\redjhon\desktop\projet c final\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"fonctions.h"
+
